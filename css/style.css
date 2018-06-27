@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  color: #00000;
+  color: #4D4D4D;
   font-size: 20px;
 }
 
@@ -39,7 +39,7 @@ a {
   color: #fff;
 }
 
-a:hover { color:#0070BC; } /* mouse over */
+a:hover { color:#EEFF41; } /* mouse over */
 
 .logo {
   margin: 20px;
@@ -75,7 +75,7 @@ li {
 
 article {
   padding-top: 100px;
-  line-height: 200%;
+  line-height: 140%;
 }
 
 .container {
